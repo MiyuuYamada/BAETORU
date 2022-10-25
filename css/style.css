@@ -19,7 +19,7 @@ header {
 
 
 h1 {
-    margin: 25px 60px 10px 40px;
+    margin: 25px 60px 10px 20px;
 
 }
 
@@ -34,7 +34,7 @@ nav ul {
 }
 
 
-li {margin-left: 40px;
+li {margin-left: 50px;
 
 }
 
@@ -55,20 +55,26 @@ h2 img{
 
 
 h3 {
-    display: flex;
+    text-align: center;
     font-size: 33px;
     width: 176px;
     margin: 123px auto 0px;
 }
 
 
+
 p {
-  display: flex;
   text-align: center;
-  font-family: '筑紫A丸ゴシック';
   font-size: 24px;
-  width: 780px;
-  margin: 124px auto ;
+  margin: 124px auto;
+  font-family: '筑紫A丸ゴシック';
+  line-height: 40px;
+}
+
+
+h4 {
+    font-size: 33px;
+    text-align: center;
 }
 
 
@@ -76,6 +82,15 @@ p {
 
 
 @media screen and (max-width: 640px) {
+    
+    body {
+        background-color: bisque;
+        font-family: 'Lao MN','筑紫A丸ゴシック','ヒラギノ角ゴシック';
+        margin: 0;
+        padding: 0;
+    }
+    
+
     
 }
 
