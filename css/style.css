@@ -18,8 +18,8 @@ header {
 }
 
 
-h1 {
-    margin: 25px 60px 10px 20px;
+.logo img{
+    margin: 15px 60px 10px 20px;
 
 }
 
@@ -29,7 +29,7 @@ nav ul {
     list-style: none;
     display: flex;
     justify-content: flex-end;
-    margin: 0;
+    margin: 0 50px;
     padding: 40px 30px 0 10px;
 }
 
@@ -39,12 +39,13 @@ li {margin-left: 50px;
 }
 
 a{
+    font-size: 20px;
     text-decoration: none;
     color: white;
 }
 
 
-h2 img{
+.frist img{
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -54,7 +55,7 @@ h2 img{
 
 
 
-h3 {
+h1 {
     text-align: center;
     font-size: 33px;
     width: 176px;
@@ -76,6 +77,19 @@ h4 {
     font-size: 33px;
     text-align: center;
 }
+
+.illust-1 img {
+    margin: 20px;
+    height:200px;
+    width:200px;
+    object-fit:cover;
+}
+
+
+
+
+
+
 
 
 
@@ -132,9 +146,4 @@ h4 {
 
 
 
-
-
-
-    
 }
-
