@@ -10,11 +10,13 @@ body {
 
 header {
     height: 100px;
+    width: 100vw;
     display: flex;
     background: #292929 0% 0% no-repeat padding-box;
     box-shadow: 0px 6px 9px #00000029;
     align-items: center;
     justify-content: space-between;
+    position: fixed;
 }
 
 
@@ -46,8 +48,9 @@ a {
 
 .title img {
     width: 40%;
-    margin: 50px -15px;
+    margin: 150px -15px;
 }
+
 
 
 p {
@@ -103,4 +106,26 @@ h1 {
 
 
 
+
+
+
+
+
+
+
+footer{
+    height: 150px;
+    padding: 30px 0;
+    background-color: #292929;
+    color: #fff;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+
+.logo2 img{
+    height: 150px;
+    margin: -20px 0;
+
+}
 
