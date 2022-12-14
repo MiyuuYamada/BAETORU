@@ -34,7 +34,8 @@ nav ul {
 }
 
 
-li {margin-left: 40px;
+li {
+    margin-left: 40px;
 
 }
 
@@ -48,9 +49,10 @@ a {
 
 
 .title img {
-    width: 40%;
-    margin: 150px 0 0 -15px;
+    width: 55%;
+    margin: 150px 0 50px -15px;
 }
+
 
 
 
