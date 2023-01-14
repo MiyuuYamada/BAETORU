@@ -134,10 +134,10 @@ h2 {
 .link_button {
     text-decoration: none;/*下線消す*/
     background: white;/*背景を白に*/
-    color:black;/*文字を黒に*/
+    color:black;/*背景を白に*/
     padding:5px 15px;/*内側の余白*/
     border-radius: 20px;/*角を丸くする*/
-    border: 2px solid #000;
+    border: 1px solid #000;
 }
   /*以下カーソルを当てたとき*/
   .link_button:hover {
