@@ -99,12 +99,14 @@ a {
       }
 
 .card__titletext{
+    color: black;
     margin: -10px 0 0 30px;
     font-size: 20px;
     font-weight: bold;
 
     }
-
+    
+    
 
 .card__overviewtext{
     color: black;

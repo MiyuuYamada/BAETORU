@@ -47,8 +47,8 @@ a {
 }
 
 .title img {
-    width: 40%;
-    margin: 150px -15px;
+    width: 45%;
+    margin: 150px 0 100px -15px;
 }
 
 
@@ -84,7 +84,7 @@ p {
     height: 250px;
     width: 250px;
     object-fit: cover;
-    margin: 15px 100px;
+    margin: 15px 100px 150px 100px;
 }
 
 
